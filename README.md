@@ -1,6 +1,6 @@
-# Custom Hyperledger Explorer
+# Custom Obortech Explorer
 
-Hyperledger Explorer is a simple, powerful, easy-to-use, highly maintainable, open source browser for viewing activity on the underlying blockchain network. Users have the ability to configure & build Hyperledger Explorer natively on macOS and Ubuntu. 
+Obortech Explorer is a simple, powerful, easy-to-use, highly maintainable, open source browser for viewing activity on the underlying blockchain network. Users have the ability to configure & build Obortech Explorer natively on macOS and Ubuntu. 
 
 This repository uses Explorer's api to fetch data with new fresh design.
 

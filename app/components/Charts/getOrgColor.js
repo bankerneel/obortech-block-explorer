@@ -2,7 +2,7 @@
  *    SPDX-License-Identifier: Apache-2.0
  */
 
-/**  Functions borrowed from  https://github.com/hyperledger/blockchain-explorer */
+/**  Functions borrowed from  https://github.com/Obortech/blockchain-explorer */
 
 import { sha256 } from 'js-sha256';
 const intConversion = str => {

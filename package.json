@@ -1,7 +1,7 @@
 {
   "name": "Hyperledge-Blockchain-Explorer",
   "version": "4.0.0",
-  "description": "Hyperledger Blockchain Explorer with custom UI",
+  "description": "Obortech Blockchain Explorer with custom UI",
   "engines": {
     "npm": ">=5",
     "node": ">=8.15.1"
