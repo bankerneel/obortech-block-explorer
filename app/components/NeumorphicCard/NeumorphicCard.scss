@@ -1,0 +1,33 @@
+.containerCard {
+	display: flex;
+	justify-content: space-between;
+	min-width: 220px;
+	width: 25%;
+	.neumorphic {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+		margin: .5em;
+		padding: 1em;
+		width: 100%;
+    height: auto;
+		background: white;
+		border-radius: 10px;
+		box-shadow: var(--p-card-shadow, 0 0 0 1px rgba(63, 63, 68, 0.05), 0 1px 3px 0 rgba(63, 63, 68, 0.15));
+		// box-shadow: -6px -6px 16px #fff, 6px 6px 16px #d1cdc7;
+		// &:active {
+		// 	box-shadow: inset -6px -6px 16px #fff, inset 6px 6px 16px #d1cdc7;
+		// }
+	}
+}
+
+$breakpoint-tablet: 769px;
+@media (max-width: $breakpoint-tablet) {
+	.containerCard {
+		display: none;
+	}
+}
+h1.Polaris-DisplayText--sizeMedium{
+	font-weight: 600 !important;
+}
